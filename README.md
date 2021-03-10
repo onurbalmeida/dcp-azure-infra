@@ -10,10 +10,10 @@ az login
 
 or set ARM env vars
 ```bash
-ARM_CLIENT_SECRET: 
-ARM_SUBSCRIPTION_ID: 
-ARM_TENANT_ID: 
-ARM_CLIENT_ID: 
+ARM_CLIENT_SECRET 
+ARM_SUBSCRIPTION_ID 
+ARM_TENANT_ID 
+ARM_CLIENT_ID 
 ```
 
 After you can just hit
